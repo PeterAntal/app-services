@@ -1,5 +1,5 @@
 {
-  "name": "@peter-antal/app-services",
+  "name": "app-services",
   "version": "1.0.0",
   "description": "A learning exercise to concoct a ts based npm package for js clients.",
   "main": "build/index.js",
