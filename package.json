@@ -1,7 +1,7 @@
 {
-  "name": "storage-menu",
+  "name": "@peter-antal/app-services",
   "version": "1.0.0",
-  "description": "",
+  "description": "A learning exercise to concoct a ts based npm package for js clients.",
   "main": "build/index.js",
   "module": "build/index.es.js",
   "jsnext:main": "build/index.es.js",
@@ -15,7 +15,7 @@
     "build"
   ],
   "keywords": [],
-  "author": "",
+  "author": "Peter Antal",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^26.0.3",
@@ -39,5 +39,14 @@
   "jest": {
     "preset": "ts-jest",
     "testEnvironment": "node"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterAntal/app-services.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PeterAntal/app-services/issues"
+  },
+  "homepage": "https://github.com/PeterAntal/app-services#readme"
 }
